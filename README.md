@@ -1,6 +1,6 @@
 # U.S Household Income Data Analysis
 
-This report analyzes U.S household income data from two  U.S Public datasets: `us_household_income` and `us_household_income_statistics`. The first dataset includes geographic details such as states, cities, area types, and land and water areas. The second dataset provides income details like average and median earnings, linked by an ID. The aim was to uncover patterns between geography and income and identify the highest and lowest earning cities. Despite some data issues, the findings reveal useful trends about wealth and location.
+This project analyzes U.S household income data from two  U.S Public datasets: `us_household_income` and `us_household_income_statistics`. The first dataset includes geographic details such as states, cities, area types, and land and water areas. The second dataset provides income details like average and median earnings, linked by an ID. The aim was to uncover patterns between geography and income and identify the highest and lowest earning cities. Despite some data issues, the findings reveal useful trends about wealth and location.
 
 ## Table of Contents
 
