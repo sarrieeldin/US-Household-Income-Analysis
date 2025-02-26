@@ -13,6 +13,7 @@ This report analyzes U.S household income data from two  U.S Public datasets: `u
   - [C. Income by Area Type](#c-income-by-area-type)
   - [D. Top and Bottom Earning Cities](#d-top-and-bottom-earning-cities)
 - [3. Recommendations](#3-recommendations)
+- [Important Note :](#important-note-)
 
 ---
 
@@ -74,7 +75,7 @@ The survey data revealed key insights about income disparities, representation g
 - **Expand future surveys with additional variables:** With extreme income variations between top- and bottom-earning cities lacking explanation, adding questions about education, employment types, or living costs to future surveys would offer a clearer picture of what drives these differences and improve decision-making.
 - **Enhance the survey process to reduce errors and gaps:** The analysis was impacted by issues like misspelled state names and missing income data for 240 rows, so introducing standardized forms with dropdown options and a follow-up system for incomplete entries would ensure cleaner, more reliable data moving forward.
 
-**Note**:  
+### Important Note :  
 The repository includes:  
 - Two Excel files containing the raw data.  
 - SQL files for data cleaning and exploratory data analysis.
