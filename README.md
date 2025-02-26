@@ -73,3 +73,8 @@ The survey data revealed key insights about income disparities, representation g
 - **Prioritize resources for underrepresented area types:** Since the data included limited information on certain area types like 'Communities', future efforts should direct economic support or resources to these regions, using survey insights to pinpoint where attention is most needed for fairer outcomes.
 - **Expand future surveys with additional variables:** With extreme income variations between top- and bottom-earning cities lacking explanation, adding questions about education, employment types, or living costs to future surveys would offer a clearer picture of what drives these differences and improve decision-making.
 - **Enhance the survey process to reduce errors and gaps:** The analysis was impacted by issues like misspelled state names and missing income data for 240 rows, so introducing standardized forms with dropdown options and a follow-up system for incomplete entries would ensure cleaner, more reliable data moving forward.
+
+**Note**:  
+The repository includes:  
+- Two Excel files containing the raw data.  
+- SQL files for data cleaning and exploratory data analysis.
